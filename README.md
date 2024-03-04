@@ -4,7 +4,6 @@
 I'm currently in my third year of Stevnes Institute of Technology pursuing a degree in software engineering. This past summer I worked with one of my professors on the AntiCopyPaster tool for intellij. I'm currently trying to expand my web development and machine learning skillset. Besides programming, I also enjoy exercising, skiing, and playing video games. 
 
 ## Skills
-Oragnized Roughly from most to least experience:
 * Java
 * JavaScript
 * TypeScript
