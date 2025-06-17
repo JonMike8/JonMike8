@@ -1,5 +1,5 @@
 # About Me:
-I'm currently in my fourth year of Stevnes Institute of Technology pursuing a degree in software engineering. I recently interned as a Software Engineering Intern at MoneyLion Inc., and am currently a technical lead at Stevens Blueprint. Besides programming, I also enjoy exercising, skiing, and playing rock climbing.
+I'm a recent graduate from Stevnes Institute of Technology pursuing a degree in software engineering. I recently interned as a Software Engineering Intern at MoneyLion Inc., and am currently a technical lead at Stevens Blueprint. Besides programming, I also enjoy exercising, skiing, and playing rock climbing.
 
 
 ## Socials:
